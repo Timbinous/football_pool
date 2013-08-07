@@ -1,0 +1,7 @@
+This is an app made to learn Rails 2.3.5
+
+Step one:  
+Downgrade your rubygems.
+```bash
+rvm rubygems 1.5.3
+```
